@@ -1,0 +1,11 @@
+
+.item{
+    background-color: aliceblue;
+    margin-bottom: 15px;
+    padding: 10px 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 90%;
+    font-weight: bold;
+    
+}
